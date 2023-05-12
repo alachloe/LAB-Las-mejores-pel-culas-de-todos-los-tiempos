@@ -48,7 +48,7 @@ const getAllDirectors = (movies) => {
     return averageDramaMovieScore;
   };
   
-  // Iteración 5: Ordenar por ano
+  // Iteracion 5: Ordenar por ano
 
   
   const orderByYear = (array) => {
